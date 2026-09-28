@@ -1,0 +1,6 @@
+{
+  "name": "ChessKiDuniya.com",
+  "description": "ChessKiDuniyaa.com - The ultimate online chess platform like Chess.com. Play real-time 1v1 multiplayer chess, challenge friends, solve puzzles, practice with grandmaster bots, and analyze games with AI coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
